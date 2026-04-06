@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Landau67/Landau67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Root+Access+Granted...;Cyber+Security+Enthusiast;Red+Teamer+In+Training;CTF+Player+%26+Learner" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<h1 style="color: #00bfff;">Welcome to my digital underground! 🌐</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://www.linkedin.com/in/senan-abdullayev-938877385/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/Landau67">
+<img src="https://img.shields.io/badge/Website/Blog-%23000000.svg?style=for-the-badge&logo=ghost&logoColor=white" alt="Website">
+</a>
+</p>
+
+🕵️‍♂️ About me
+
+💻 Penetration Tester | Red Team | Cybersecurity Learner 🛡️
+
+✍️ Hack. Learn. Secure. Finding the gaps before the bad guys do.
+
+🌱 I'm currently learning deeper Offensive Security techniques, Active Directory, and Red Teaming 📚
+
+💬 Ask me about Cyber Security, Pentesting, or IT in general ℹ️
+
+⚡ Fun fact: I love Capture The Flags (CTF) Challenges 🎯
+
+🛠️ Arsenal & Skills
+
+<p align="center">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+🎯 CTF Platforms
+
+
+
+
+<a href="https://app.hackthebox.com/users/3118477">
+<img src="https://img.shields.io/badge/HackTheBox-Snannn-90ee90?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox Badge">
+</a>
+
+</div>
