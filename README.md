@@ -49,7 +49,7 @@ methodologies, and CTF challenges. I find the gaps before the bad guys do.
 | Badge | Certification | Issuer | Status |
 |-------|--------------|--------|--------|
 | ✅ | **CompTIA Security+** | CompTIA | Certified |
-| 🔄 | **CPTS** — Certified Penetration Testing Specialist | Hack The Box | Certified |
+| ✅ | **CPTS** — Certified Penetration Testing Specialist | Hack The Box | Certified |
 
 > Currently on the path: **Security+** → **CPTS**
 
